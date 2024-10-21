@@ -1,5 +1,6 @@
 # Implementation-of-an-Intelligent-Course-Database
-[!](https://th.bing.com/th/id/OIP.-mf2mDNuXjFybMoLvSeHCQHaEK?rs=1&pid=ImgDetMain)
+![maxresdefault](https://github.com/user-attachments/assets/e8bb5163-2380-4c88-9800-b1f74a8457ad)
+
 For an educational platform focused on data science and machine learning, here are 10 YouTube channels that publish high-quality content in this domain:
 Here are the **channel IDs** for each of the YouTube channels listed:
 
